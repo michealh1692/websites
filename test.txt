@@ -1,3 +1,4 @@
 www.quantsecurity.com
 www.prizeroom.com
 mgmtpod-1.forescoutcloud.net
+mgmtpod-1-dashboard.production.forescout.com
